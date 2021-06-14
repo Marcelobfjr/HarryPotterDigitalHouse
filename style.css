@@ -1,0 +1,39 @@
+header {
+    font-size: 12px;
+    color: black
+}
+tittle {
+    background-color:#7759DE;
+    font-size: 25px;
+    Margin:550px
+
+}
+ main {
+        background-color: #FB4C44;
+          font-size: 20px;
+          width: fit-content
+ }
+
+body {
+    background-image: url(https://i.pinimg.com/736x/d7/5b/2d/d75b2d678198c17e3ba89b80670c5762.jpg);
+    font-family:Varela Round
+
+}
+
+      
+      p {
+
+        display: grid;
+        
+        grid-template-columns: 4fr 1fr 2fr;
+        
+        }
+        
+ 
+        p img {
+        
+        grid-column: span 1;
+        
+        }
+      
+        
